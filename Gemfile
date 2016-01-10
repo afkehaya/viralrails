@@ -25,7 +25,7 @@ group :development do
   gem 'pry'
 end
 
-
+gem 'rails_12factor' 
 gem 'delayed_job_active_record'
 
 gem 'unicorn'

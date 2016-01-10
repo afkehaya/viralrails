@@ -1,11 +1,11 @@
 <style type="text/css">
-    body{
-        text-align: center;
-    }
+	body{
+		text-align: center;
+	}
 
-    p{
-        margin: 20px 0;
-    }
+	p{
+		margin: 20px 0;
+	}
 </style>
 
 <p>
@@ -127,7 +127,7 @@ If you change your mind about Viral Rails use of User Data volunteered by you, y
 </p>
 <p>
     At your election, you may request (and Viral Rails may provide) additional information about Viral Rails (the <strong><em>Service</em></strong>). When you do so,
-you may need to submit certain information or data to Viral Rails, for example, your email address. Viral Rails current privacy policy is available at    <a href="http:// www.viralrails.com/privacy-policy">http:// www.viralrails.com/privacy-policy</a> (the <strong><em>Privacy Policy</em></strong>), which is incorporated
+you may need to submit certain information or data to Viral Rails, for example, your email address. Viral Rails current privacy policy is available at    <a href="http:// www.viralrails.com">http:// www.viralrails.com</a> (the <strong><em>Privacy Policy</em></strong>), which is incorporated
     by this reference. Viral Rails will not edit, delete or disclose the contents of your data in connection with the Service unless (1) reasonably necessary to
     perform the Service, (2) authorized by you, (3) otherwise permitted under the Privacy Policy or (4) Viral Rails is required to do so by law or regulation, or
     in the good faith belief that such action is necessary to (i) conform or comply with applicable laws, regulations or legal process, (ii) protect or defend
@@ -166,7 +166,7 @@ you may need to submit certain information or data to Viral Rails, for example, 
     THE SITE AND ALL MATERIALS, INFORMATION, SOFTWARE, PRODUCTS AND SERVICES INCLUDED IN OR AVAILABLE THROUGH THE SITE (THE <strong><em>CONTENT</em></strong>)
     ARE PROVIDED "AS IS" AND "AS AVAILABLE". THE SITE, SERVICE AND CONTENT ARE PROVIDED WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT
     LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY
-    COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED. VIRAL RAILS, AND ITS AFFILIATES, LICENSORS AND SUPPLIERS DO NOT WARRANT THAT:
+    COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED. Viral Rails, AND ITS AFFILIATES, LICENSORS AND SUPPLIERS DO NOT WARRANT THAT:
     (1) THE CONTENT IS TIMELY, ACCURATE, COMPLETE, RELIABLE OR CORRECT; (2) THE SITE WILL BE SECURE OR AVAILABLE AT ANY PARTICULAR TIME OR LOCATION; (3) ANY
     DEFECTS OR ERRORS WILL BE CORRECTED; (4) THE CONTENT IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR (5) THE RESULTS OF USING THE SITE OR SERVICE WILL
     MEET YOUR REQUIREMENTS. YOUR USE OF THE SITE AND/OR SERVICE IS SOLELY AT YOUR OWN RISK.
@@ -175,11 +175,11 @@ you may need to submit certain information or data to Viral Rails, for example, 
     <strong>Limitation of Liability.</strong>
 </p>
 <p>
-    IN NO EVENT SHALL VIRAL RAILS (OR ITS AFFILIATES, LICENSORS AND SUPPLIERS) BE LIABLE CONCERNING THE SUBJECT MATTER OF thESE TERMS OF USE, regardless of the
+    IN NO EVENT SHALL Viral Rails (OR ITS AFFILIATES, LICENSORS AND SUPPLIERS) BE LIABLE CONCERNING THE SUBJECT MATTER OF thESE TERMS OF USE, regardless of the
     form of any claim or action (whether in CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHERwise), for any (1) MATTER BEYOND ITS REASONABLE CONTROL, (2) LOSS OR
     INACCURACY of data, loss or interruption OF USE, OR COST OF PROCURING SUBSTITUTE TECHNOLOGY, GOODS or SERVICES, OR (3) DIRECT OR INDIRECT, PUNITIVE,
     INCIDENTAL, RELIANCE, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES INCLUDING, BUT NOT LIMITED TO, LOSS OF BUSINESS, REVENUES, PROFITS OR GOODWILL, EVEN IF
-    VIRAL RAILS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THESE LIMITATIONS ARE INDEPENDENT FROM ALL OTHER PROVISIONS OF THIS AGREEMENT AND SHALL APPLY
+    Viral Rails HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THESE LIMITATIONS ARE INDEPENDENT FROM ALL OTHER PROVISIONS OF THIS AGREEMENT AND SHALL APPLY
     NOTWITHSTANDING THE FAILURE OF ANY REMEDY PROVIDED HEREIN.
 </p>
 <p>
@@ -197,10 +197,10 @@ you may need to submit certain information or data to Viral Rails, for example, 
     <strong>Copyright and Trademark Notices.</strong>
 </p>
 <p>
-    Unless otherwise indicated, these Terms of Use and all Content provided by Viral Rails are copyright © 2013 Tail Walker, LLC. All rights reserved.
+    Unless otherwise indicated, these Terms of Use and all Content provided by Viral Rails are copyright © 2016 Tail Walker LLC All rights reserved.
 </p>
 <p>
-    Viral Rails and the Viral Rails logo are trademarks of Tail Walker, LLC.
+    Viral Rails and the Viral Rails logo are trademarks of Tail Walker LLC.
 </p>
 <p>
     <strong>Contact.</strong>

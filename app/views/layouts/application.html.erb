@@ -23,7 +23,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <%= stylesheet_link_tag "core.css", :media => "all" %>
         <%= csrf_meta_tags %>
-        <%= analytics_init if Rails.env.production? %>
+        <%= analytics_init %>
 </head>
 <body id="<%= @bodyId %>">
 

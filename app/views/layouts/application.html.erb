@@ -5,7 +5,6 @@
 <!--[if IE 9 ]>    <html class="ie9 <%= @bodyId %>"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <html class="<%= @bodyId %>"> <!--<![endif]-->
 <head>
-        <%= analytics_init if Rails.env.production? %>
         <title>Viral Rails Tell Friends, Build a viral landing page free.</title>
         <link rel="icon" href="<%= asset_path('favicon2.ico') %>" type="image/x-icon">
         <link rel="shortcut icon" href="<%= asset_path('favicon2.ico') %>" type="image/x-icon">
@@ -29,6 +28,6 @@
 
 <%= yield %>
 
-
+<%= render :partial => ‘layouts/ga’ if RAILS_ENV == ‘production’ %>
 </body>
 </html>

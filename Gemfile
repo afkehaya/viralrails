@@ -4,8 +4,7 @@ gem 'rails', '3.2.11'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
-# for google analytics
-gem 'google-analytics-rails'
+# For google analytics
 
 gem 'activeadmin'
 gem 'pg'

@@ -1,6 +1,7 @@
 Prelaunchr::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb
   # replace this with your tracker code
+ 
   # Code is not reloaded between requests
   config.cache_classes = true
 

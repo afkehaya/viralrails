@@ -7,7 +7,9 @@ class User < ActiveRecord::Base
     validates :email, :uniqueness => true, :format => { :with => /\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*/i, :message => "Invalid email format." }
     validates :referral_code, :uniqueness => true
 
+
     before_create :create_referral_code
+    before_create :add_to_list
     after_create :send_welcome_email
 
     REFERRAL_STEPS = [
@@ -36,9 +38,17 @@ class User < ActiveRecord::Base
             "image" => ActionController::Base.helpers.asset_path("refer/kermit.gif")
         }
     ]
-
+   def add_to_list
+      list_id = "715a1cd50a"
+      @gb = Gibbon::Request.new
+      subscribe = @gb.lists(list_id).members.create(body: {
+        email_address: self.email, 
+        status: "subscribed", 
+        double_optin: false
+        })
+    end
     private
-
+  
     def create_referral_code
         referral_code = SecureRandom.hex(5)
         @collision = User.find_by_referral_code(referral_code)

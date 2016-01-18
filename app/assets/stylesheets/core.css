@@ -57,7 +57,7 @@ html.home{
 #home .hero .large{
 	font-weight: bold;
 	font-size: 40px;
-	color: #074E6F;
+	color: #000;
 	text-transform: uppercase;
 	margin: 85px 0 0 136px;
 	position: relative;
@@ -67,7 +67,7 @@ html.home{
 
 #home .hero .small{
 	font-weight: bold;
-	color: #955F5D;
+	color: #000;
 	font-size: 18px;
 	margin: 10px 0 0 115px;
 	line-height: 30px;
@@ -96,7 +96,7 @@ html.home{
 #home .form-wrap .byline{
 	font-size: 15px;
 	text-transform: uppercase;
-	color: #074E6F;
+	color: #000;
 	text-align: center;
 	font-weight: bold;
 	letter-spacing: 2px;
@@ -115,7 +115,7 @@ html.home{
 
 #home .form-wrap .submit{
 	width: 143px;
-	background: #074E6F;
+	background: #000;
 	float: left;
 	height: 37px;
 	line-height: 37px;
@@ -263,7 +263,7 @@ html.home{
 
 #refer .header{
 	height: 50px;
-	background: #074E6F;
+	background: #000;
 	width: 100%;
 	overflow:hidden;
 	z-index: 1;
@@ -350,13 +350,13 @@ html.home{
 	line-height: 40px;
 	text-transform: uppercase;
 	font-weight: bold;
-	color: #074E6F;
+	color: #000;
 	margin-top: 18px;
 	letter-spacing: .13em;
 }
 
 #refer .share-wrap .subtitle{
-	color: #565656;
+	color: #000;
 	font-size: 14px;
 	text-transform: none;
 	margin-top: 15px;
@@ -418,7 +418,7 @@ html.home{
 #refer .prizes .callout{
 	text-align: center;
 	font-size: 16px;
-	color: #074E6F;
+	color: #000;
 	font-weight: bold;
 	margin: 20px 0 0 0;
 	letter-spacing: 2px;
@@ -466,7 +466,7 @@ html.home{
 #refer .prizes .products li.title{
 	height: 100%;
 	text-transform: uppercase;
-	color: #074E6F;
+	color: #000;
 	font-weight: 500;
 	font-size: 14px;
 	float: left;
@@ -487,7 +487,7 @@ html.home{
 
 #refer .prizes .products li.product{
 	height: 100%;
-	color: #074E6F;
+	color: #000;
 	width: 125px;
 	margin-right: 129px;
 	float: left;

@@ -24,6 +24,8 @@ end
 group :development do
   gem 'pry'
 end
+#for adding names to mailchimp
+gem 'gibbon', '~> 2.0.0'
 
 gem 'rails_12factor' 
 gem 'delayed_job_active_record'
